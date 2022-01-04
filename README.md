@@ -1,2 +1,2 @@
 # Terraform-automation
-It's a simple automation project with AWS using Terraform
+It's a simple automation project for AWS using Terraform
